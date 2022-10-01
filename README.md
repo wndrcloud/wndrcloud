@@ -2,8 +2,8 @@
 
 My name is Aaditya Rao and I'm an Information Science graduate student from UIUC. Here's some info about me!
 
-⚡ Work experience: <br>
-- **Data Science Intern @ Walmart Global Tech** - Personalization and Recommendations Team for Sam's Club. [Dallas, TX: Summer 2022]
+💡 Work experience: <br>
+- **Data Science Intern @ Walmart Global Tech** - Personalization and Recommendation Team for Sam's Club. [Dallas, TX: Summer 2022]
 - **Data Analyst Consultant @ COSTCO (University of Illinois)** - Harvard Business Review Case Study. [Champaign, IL: Spring 2022]
 - **Business Analyst Intern @ FINO Payments Bank** - Data Analytics Team. [Mumbai, India: Winter 2020]
 - **Data Science Intern @ Loan2Grow** - Risk Analytics Team. [Remote, India: Summer 2020]
