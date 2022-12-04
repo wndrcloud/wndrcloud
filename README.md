@@ -14,11 +14,10 @@ My name is Aaditya Rao and I'm an Information Science graduate student from UIUC
 - **B.Tech, Electronics & Telecommunication Engineering** - NMIMS, Mumbai [Graduated: Aug 2020]
 
 🌱 Interests:
-- Machine Learning
-- Sports Analytics
-- Football (Soccer) 
+- Football (Soccer)
 - Photography
-- Travelling
+- Sports Analytics 
+- Travel
 
 💬 Reach me by email or LinkedIn! rao25@illinois.edu | www.linkedin.com/in/aadityarao/
 
